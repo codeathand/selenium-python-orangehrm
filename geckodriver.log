@@ -1,0 +1,2479 @@
+1606211002675	geckodriver	INFO	Listening on 127.0.0.1:49290
+1606211005757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileer8xyD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211011356	Marionette	INFO	Listening on port 49298
+1606211011647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/navigate.js, line 213: TypeError: driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606211050107	Marionette	INFO	Stopped listening on port 49298
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606211052544	geckodriver	INFO	Listening on 127.0.0.1:49366
+1606211055586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileMzOh9K"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211060744	Marionette	INFO	Listening on port 49374
+1606211061373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/navigate.js, line 213: TypeError: driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606211170887	Marionette	INFO	Stopped listening on port 49374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606211173185	geckodriver	INFO	Listening on 127.0.0.1:49462
+1606211176246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileYpYusk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211181068	Marionette	INFO	Listening on port 49470
+1606211181236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606211234300	Marionette	INFO	Stopped listening on port 49470
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606211241159	geckodriver	INFO	Listening on 127.0.0.1:49534
+1606211244290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilePfGsQz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211248990	Marionette	INFO	Listening on port 49542
+1606211249409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606211422920	Marionette	INFO	Stopped listening on port 49542
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211359953	Marionette	INFO	Listening on port 49624
+1606211360118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606211421138	Marionette	INFO	Stopped listening on port 49624
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606211515594	geckodriver	INFO	Listening on 127.0.0.1:49742
+1606211518652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile3olyD7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211523525	Marionette	INFO	Listening on port 49750
+1606211523866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606211591312	Marionette	INFO	Stopped listening on port 49750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] ErrJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211594959	Marionette	INFO	Listening on port 49820
+1606211595217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606211633598	Marionette	INFO	Stopped listening on port 49820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606211635601	geckodriver	INFO	Listening on 127.0.0.1:49882
+1606211638680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilefEWz8T"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211643265	Marionette	INFO	Listening on port 49890
+1606211643511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606211682987	Marionette	INFO	Stopped listening on port 49890
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606211684703	geckodriver	INFO	Listening on 127.0.0.1:49945
+1606211687795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile4PiFC7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606211692617	Marionette	INFO	Listening on port 49956
+1606211693151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606211709114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606211749594	Marionette	INFO	Stopped listening on port 49956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606212260860	geckodriver	INFO	Listening on 127.0.0.1:50194
+1606212263940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileSL6m9Y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606212268747	Marionette	INFO	Listening on port 50203
+1606212268802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606212284814	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606212499962	Marionette	INFO	Stopped listening on port 50203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606212502384	geckodriver	INFO	Listening on 127.0.0.1:50293
+1606212505453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileOXeo2q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606212510101	Marionette	INFO	Listening on port 50301
+1606212510291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606212525827	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606212557651	Marionette	INFO	Stopped listening on port 50301
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606212733763	geckodriver	INFO	Listening on 127.0.0.1:50581
+1606212736821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileUyjwv1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606212741636	Marionette	INFO	Listening on port 50592
+1606212741858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606212757636	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606223543012	Marionette	INFO	Stopped listening on port 50592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606225163234	geckodriver	INFO	Listening on 127.0.0.1:50617
+1606225166326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilecGK9lW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606225171654	Marionette	INFO	Listening on port 50625
+1606225172240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606225195506	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606225807288	Marionette	INFO	Stopped listening on port 50625
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606225808837	geckodriver	INFO	Listening on 127.0.0.1:50769
+1606225811882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileoApLYK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606225816474	Marionette	INFO	Listening on port 50777
+1606225817102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606225838445	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606225874711	Marionette	INFO	Stopped listening on port 50777
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606225877255	geckodriver	INFO	Listening on 127.0.0.1:50940
+1606225880334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilesRrb3j"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606225884882	Marionette	INFO	Listening on port 50948
+1606225885146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606225908148	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606226019539	Marionette	INFO	Stopped listening on port 50948
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606226021324	geckodriver	INFO	Listening on 127.0.0.1:51013
+1606226024408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilebHRlZG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606226029488	Marionette	INFO	Listening on port 51021
+1606226029960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606226048909	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606226186642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile99Cr7y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606226191097	Marionette	INFO	Listening on port 51230
+1606226191219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606226214110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606226251317	Marionette	INFO	Stopped listening on port 51230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606226253291	geckodriver	INFO	Listening on 127.0.0.1:51397
+1606226256376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileB5pBOF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606226261014	Marionette	INFO	Listening on port 51405
+1606226261503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606226281704	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606226342359	Marionette	INFO	Stopped listening on port 51405
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606226427307	geckodriver	INFO	Listening on 127.0.0.1:51580
+1606226430358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilennp1zp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606226434869	Marionette	INFO	Listening on port 51588
+1606226434922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606226455694	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606226509645	Marionette	INFO	Stopped listening on port 51588
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606226512936	geckodriver	INFO	Listening on 127.0.0.1:51659
+1606226516003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofiley4yFaz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606226520784	Marionette	INFO	Listening on port 51667
+1606226520840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606226540082	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606226566413	Marionette	INFO	Stopped listening on port 51667
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606226873419	geckodriver	INFO	Listening on 127.0.0.1:51838
+1606226876495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilebEKvW3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606226881257	Marionette	INFO	Listening on port 51847
+1606226881393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606226900727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606227025990	Marionette	INFO	Stopped listening on port 51847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606227027598	geckodriver	INFO	Listening on 127.0.0.1:52033
+1606227030665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileUqP2Zn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606227035357	Marionette	INFO	Listening on port 52042
+1606227035514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606227059205	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606227512764	Marionette	INFO	Stopped listening on port 52042
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606227514223	geckodriver	INFO	Listening on 127.0.0.1:52148
+1606227517284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileD7D1Xf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606227522117	Marionette	INFO	Listening on port 52156
+1606227522426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606227540505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606227710112	Marionette	INFO	Stopped listening on port 52156
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606227715845	geckodriver	INFO	Listening on 127.0.0.1:52221
+1606227718890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileQ372J5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606227723597	Marionette	INFO	Listening on port 52229
+1606227723717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606227744095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606227805352	Marionette	INFO	Stopped listening on port 52229
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606227807258	geckodriver	INFO	Listening on 127.0.0.1:52288
+1606227810315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile0yEgyp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606227815291	Marionette	INFO	Listening on port 52296
+1606227815879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606227836679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606227882403	Marionette	INFO	Stopped listening on port 52296
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606228115182	geckodriver	INFO	Listening on 127.0.0.1:52380
+1606228118271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile3SLPxo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606228122664	Marionette	INFO	Listening on port 52388
+1606228123087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606228150415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606228287675	Marionette	INFO	Stopped listening on port 52388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606229582394	geckodriver	INFO	Listening on 127.0.0.1:52907
+1606229585482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilegmyEFb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606229590028	Marionette	INFO	Listening on port 52915
+1606229590200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606229610875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606229634296	Marionette	INFO	Stopped listening on port 52915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606229636844	geckodriver	INFO	Listening on 127.0.0.1:52968
+1606229639904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilec7HXXv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606229644572	Marionette	INFO	Listening on port 52976
+1606229645249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606229664798	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606229741850	Marionette	INFO	Stopped listening on port 52976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606229746393	geckodriver	INFO	Listening on 127.0.0.1:53036
+1606229749464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilerOb8Mm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606229754433	Marionette	INFO	Listening on port 53044
+1606229754810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606229772984	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606229801117	Marionette	INFO	Stopped listening on port 53044
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606229934099	geckodriver	INFO	Listening on 127.0.0.1:53160
+1606229937150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileaY9bvu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606229942986	Marionette	INFO	Listening on port 53170
+1606229943379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606229987728	Marionette	INFO	Stopped listening on port 53170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606229989533	geckodriver	INFO	Listening on 127.0.0.1:53242
+1606229992609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile6DsSqh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606229997438	Marionette	INFO	Listening on port 53253
+1606229998045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606230024681	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 9648, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1606230036203	Marionette	INFO	Stopped listening on port 53253
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606231024328	geckodriver	INFO	Listening on 127.0.0.1:53840
+1606231027368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileVTsFas"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606231032353	Marionette	INFO	Listening on port 53849
+1606231032690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606231062080	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606231097428	Marionette	INFO	Stopped listening on port 53849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606231165346	geckodriver	INFO	Listening on 127.0.0.1:53976
+1606231168401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilen8HmBn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606231172976	Marionette	INFO	Listening on port 53985
+1606231173449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606231203747	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606231253518	Marionette	INFO	Stopped listening on port 53985
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606231314739	geckodriver	INFO	Listening on 127.0.0.1:54117
+1606231317838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileJOx1pO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606231322567	Marionette	INFO	Listening on port 54126
+1606231322674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606231346748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606231401043	Marionette	INFO	Stopped listening on port 54126
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606231732251	geckodriver	INFO	Listening on 127.0.0.1:54394
+1606231735288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofiletOrAXv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606231740210	Marionette	INFO	Listening on port 54605
+1606231740511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606231761564	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606231868262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileFsnDNI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606231874631	Marionette	INFO	Listening on port 54759
+1606231875159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606231894578	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606232076226	Marionette	INFO	Stopped listening on port 54759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606232081287	geckodriver	INFO	Listening on 127.0.0.1:54931
+1606232084353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileCApzJM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606232089541	Marionette	INFO	Listening on port 54940
+1606232090082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606232108712	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 15236, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1606232150822	Marionette	INFO	Stopped listening on port 54940
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606236943906	geckodriver	INFO	Listening on 127.0.0.1:57926
+1606236946956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilemKjfiC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606236952436	Marionette	INFO	Listening on port 57937
+1606236952841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606236972123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606237036020	Marionette	INFO	Stopped listening on port 57937
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606237078282	geckodriver	INFO	Listening on 127.0.0.1:58074
+1606237081349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile7AzyyL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606237086045	Marionette	INFO	Listening on port 58082
+1606237086101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606237103528	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1606237142883	Marionette	INFO	Stopped listening on port 58082
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606237148694	geckodriver	INFO	Listening on 127.0.0.1:58134
+1606237151749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilewTxVRW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606237156282	Marionette	INFO	Listening on port 58142
+1606237156560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606237180191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606237202655	Marionette	INFO	Stopped listening on port 58142
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606237762032	geckodriver	INFO	Listening on 127.0.0.1:58288
+1606237765114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile5KIlXP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606237770475	Marionette	INFO	Listening on port 58296
+1606237770628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606237788064	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606237899879	Marionette	INFO	Stopped listening on port 58296
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606238041865	geckodriver	INFO	Listening on 127.0.0.1:58376
+1606238044936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileWgowAS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238049986	Marionette	INFO	Listening on port 58384
+1606238050317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606238068633	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 10856, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1606238078453	Marionette	INFO	Stopped listening on port 58384
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606238082622	geckodriver	INFO	Listening on 127.0.0.1:58436
+1606238085684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofiledsFrdP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238090286	Marionette	INFO	Listening on port 58444
+1606238090534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606238119692	Marionette	INFO	Stopped listening on port 58444
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606238121553	geckodriver	INFO	Listening on 127.0.0.1:58504
+1606238124639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileu4CecF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238129341	Marionette	INFO	Listening on port 58512
+1606238129480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606238147763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606238169145	Marionette	INFO	Stopped listening on port 58512
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606238690403	geckodriver	INFO	Listening on 127.0.0.1:58752
+1606238693475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileIdAvEF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238699146	Marionette	INFO	Listening on port 58760
+1606238699363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606238727616	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606238758149	Marionette	INFO	Stopped listening on port 58760
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606238761499	geckodriver	INFO	Listening on 127.0.0.1:58822
+1606238764570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilesAw3Og"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238770410	Marionette	INFO	Listening on port 58830
+1606238770929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606238793010	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606238941708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileZxWKXB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606238946223	Marionette	INFO	Listening on port 58915
+1606238946559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606238968837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606239053671	Marionette	INFO	Stopped listening on port 58915
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606239056728	geckodriver	INFO	Listening on 127.0.0.1:59001
+1606239059808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilepIrn2u"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606239064395	Marionette	INFO	Listening on port 59009
+1606239064850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606239084315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606239100807	Marionette	INFO	Stopped listening on port 59009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606239103200	geckodriver	INFO	Listening on 127.0.0.1:59067
+1606239106266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile4sKmKS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606239111155	Marionette	INFO	Listening on port 59075
+1606239111591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606239129862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606239174296	Marionette	INFO	Stopped listening on port 59075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606239175823	geckodriver	INFO	Listening on 127.0.0.1:59149
+1606239178908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilekNbWZv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606239183929	Marionette	INFO	Listening on port 59157
+1606239184254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606239203247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606239300934	Marionette	INFO	Stopped listening on port 59157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606239302582	geckodriver	INFO	Listening on 127.0.0.1:59237
+1606239305635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile3nAp2J"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606239310419	Marionette	INFO	Listening on port 59246
+1606239310857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606239331647	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606239395734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileGO4m77"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606239400694	Marionette	INFO	Listening on port 59316
+1606239401093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606239419658	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606239514813	Marionette	INFO	Stopped listening on port 59316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606239780907	geckodriver	INFO	Listening on 127.0.0.1:59421
+1606239783971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileu4Rrk9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606239788853	Marionette	INFO	Listening on port 59429
+1606239789303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606239807799	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606239830414	Marionette	INFO	Stopped listening on port 59429
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240057019	geckodriver	INFO	Listening on 127.0.0.1:59512
+1606240060093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilec9sF88"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240064848	Marionette	INFO	Listening on port 59520
+1606240065244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240085423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606240117647	Marionette	INFO	Stopped listening on port 59520
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1606240119033	geckodriver	INFO	Listening on 127.0.0.1:59577
+1606240122111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilev612Wn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240127141	Marionette	INFO	Listening on port 59585
+1606240127856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240145378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 14568, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 14568, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Parent 3644, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1606240176898	Marionette	INFO	Stopped listening on port 59585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240264522	geckodriver	INFO	Listening on 127.0.0.1:59648
+1606240267582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilexry1ch"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240273242	Marionette	INFO	Listening on port 59656
+1606240273802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240293978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606240302963	Marionette	INFO	Stopped listening on port 59656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240337753	geckodriver	INFO	Listening on 127.0.0.1:59724
+1606240340811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileT56Bji"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240345382	Marionette	INFO	Listening on port 59732
+1606240345476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240369141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606240415004	Marionette	INFO	Stopped listening on port 59732
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240417130	geckodriver	INFO	Listening on 127.0.0.1:59787
+1606240420195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileFASO4Q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240424954	Marionette	INFO	Listening on port 59796
+1606240425003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240449628	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606240465714	Marionette	INFO	Stopped listening on port 59796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240518486	geckodriver	INFO	Listening on 127.0.0.1:59856
+1606240521553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilefUGKhl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240526102	Marionette	INFO	Listening on port 59864
+1606240526419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240546435	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606240661974	Marionette	INFO	Stopped listening on port 59864
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240668113	geckodriver	INFO	Listening on 127.0.0.1:59935
+1606240671152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilekLyWnY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240675948	Marionette	INFO	Listening on port 59943
+1606240676320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240695510	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606240772049	Marionette	INFO	Stopped listening on port 59943
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240774605	geckodriver	INFO	Listening on 127.0.0.1:60004
+1606240777681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileEjgAv1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240782156	Marionette	INFO	Listening on port 60012
+1606240782533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240803019	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 10352, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1606240905192	Marionette	INFO	Stopped listening on port 60012
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240906605	geckodriver	INFO	Listening on 127.0.0.1:60088
+1606240909633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile0P5SEY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240914295	Marionette	INFO	Listening on port 60098
+1606240914614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606240934937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/webres_5fab50e5538b86.88468889/js/nonmaterial_header.min.js, line 462: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606240948346	Marionette	INFO	Stopped listening on port 60098
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606240987864	geckodriver	INFO	Listening on 127.0.0.1:60161
+1606240990960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilepG44Fo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606240995899	Marionette	INFO	Listening on port 60169
+1606240996112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606241016962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Parent 336, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1606241029262	Marionette	INFO	Stopped listening on port 60169
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606241083453	geckodriver	INFO	Listening on 127.0.0.1:60226
+1606241086497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofiles7K6Bm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606241091695	Marionette	INFO	Listening on port 60234
+1606241091787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606241111872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606241530761	Marionette	INFO	Stopped listening on port 60234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606241534212	geckodriver	INFO	Listening on 127.0.0.1:60325
+1606241537282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileD4xviR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606241542844	Marionette	INFO	Listening on port 60333
+1606241543112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606241565538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606241978819	Marionette	INFO	Stopped listening on port 60333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606241981275	geckodriver	INFO	Listening on 127.0.0.1:60749
+1606241984355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilemGfyPZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606241989423	Marionette	INFO	Listening on port 60757
+1606241989889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606242011683	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606242030451	Marionette	INFO	Stopped listening on port 60757
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606242106954	geckodriver	INFO	Listening on 127.0.0.1:60830
+1606242110015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileanIM3W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606242114558	Marionette	INFO	Listening on port 60838
+1606242114867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606242136080	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606242168308	Marionette	INFO	Stopped listening on port 60838
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606242473808	geckodriver	INFO	Listening on 127.0.0.1:60940
+1606242476862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilegm2nGs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606242481681	Marionette	INFO	Listening on port 60948
+1606242482218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606242502829	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606242642372	Marionette	INFO	Stopped listening on port 60948
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606245178996	geckodriver	INFO	Listening on 127.0.0.1:61312
+1606245182120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile5JBHMj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245186944	Marionette	INFO	Listening on port 61320
+1606245187450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606245206067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606245238169	Marionette	INFO	Stopped listening on port 61320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606245287934	geckodriver	INFO	Listening on 127.0.0.1:61379
+1606245291004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilec67sFm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245295751	Marionette	INFO	Listening on port 61387
+1606245296292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606245321183	Marionette	INFO	Stopped listening on port 61387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606245502339	geckodriver	INFO	Listening on 127.0.0.1:61459
+1606245505385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilex5iPTB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245510361	Marionette	INFO	Listening on port 61467
+1606245510531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606245529294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606245579463	Marionette	INFO	Stopped listening on port 61467
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606245580839	geckodriver	INFO	Listening on 127.0.0.1:61524
+1606245583940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilelC08HP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245588953	Marionette	INFO	Listening on port 61532
+1606245589348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606245609134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606245653817	Marionette	INFO	Stopped listening on port 61532
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606245712696	geckodriver	INFO	Listening on 127.0.0.1:61596
+1606245715776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileT679Kv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245720656	Marionette	INFO	Listening on port 61604
+1606245721192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606245739978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606245787053	Marionette	INFO	Stopped listening on port 61604
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606245825071	geckodriver	INFO	Listening on 127.0.0.1:61669
+1606245828157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilePFdbW9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245833292	Marionette	INFO	Listening on port 61677
+1606245833613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606245853319	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606245897105	Marionette	INFO	Stopped listening on port 61677
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606245902457	geckodriver	INFO	Listening on 127.0.0.1:61733
+1606245905504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile6JL0H6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606245910404	Marionette	INFO	Listening on port 61741
+1606245910696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606245930807	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606246085510	Marionette	INFO	Stopped listening on port 61741
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246151426	geckodriver	INFO	Listening on 127.0.0.1:61809
+1606246154493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileikVJDp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246159480	Marionette	INFO	Listening on port 61817
+1606246159749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246179618	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 5584, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1606246259107	Marionette	INFO	Stopped listening on port 61817
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246261295	geckodriver	INFO	Listening on 127.0.0.1:61896
+1606246264389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileuyBtlx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246269612	Marionette	INFO	Listening on port 61904
+1606246269985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246294618	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606246394273	Marionette	INFO	Stopped listening on port 61904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246397131	geckodriver	INFO	Listening on 127.0.0.1:61971
+1606246400406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileJ2NYSC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246405344	Marionette	INFO	Listening on port 61979
+1606246405759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246423832	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 21888, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1606246517055	Marionette	INFO	Stopped listening on port 61979
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246519081	geckodriver	INFO	Listening on 127.0.0.1:62041
+1606246522143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileO3AoGc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246527218	Marionette	INFO	Listening on port 62049
+1606246527537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246545639	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606246656737	Marionette	INFO	Stopped listening on port 62049
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246675919	geckodriver	INFO	Listening on 127.0.0.1:62116
+1606246678974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilekeGDsX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246683804	Marionette	INFO	Listening on port 62124
+1606246684152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606246723240	Marionette	INFO	Stopped listening on port 62124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246725284	geckodriver	INFO	Listening on 127.0.0.1:62181
+1606246728347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilefsh5y2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246733213	Marionette	INFO	Listening on port 62189
+1606246733428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246753859	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606246813858	Marionette	INFO	Stopped listening on port 62189
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246815240	geckodriver	INFO	Listening on 127.0.0.1:62249
+1606246818312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileqViC3G"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246823819	Marionette	INFO	Listening on port 62257
+1606246824271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246842364	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606246882401	Marionette	INFO	Stopped listening on port 62257
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246885753	geckodriver	INFO	Listening on 127.0.0.1:62314
+1606246888832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilediJ6zQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246893868	Marionette	INFO	Listening on port 62322
+1606246894376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246913941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606246964770	Marionette	INFO	Stopped listening on port 62322
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606246967100	geckodriver	INFO	Listening on 127.0.0.1:62422
+1606246970176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileJ4q2UJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606246974808	Marionette	INFO	Listening on port 62430
+1606246975498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606246996199	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606247109213	Marionette	INFO	Stopped listening on port 62430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606247171302	geckodriver	INFO	Listening on 127.0.0.1:62509
+1606247174383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilePznDCs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606247179252	Marionette	INFO	Listening on port 62517
+1606247179734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/webres_5fab50e5538b86.88468889/js/nonmaterial_header.min.js, line 216: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/webres_5fab50e5538b86.88468889/orangehrmRecruitmentPlugin/materialize/js/materialize.min.js, line 7: TypeError: document.body is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1606247207752	Marionette	INFO	Stopped listening on port 62517
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606247210206	geckodriver	INFO	Listening on 127.0.0.1:62570
+1606247213271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilezmSnkJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606247218262	Marionette	INFO	Listening on port 62578
+1606247218616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606247240198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606247284603	Marionette	INFO	Stopped listening on port 62578
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606248607083	geckodriver	INFO	Listening on 127.0.0.1:63823
+1606248610164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile1qLygj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606248615039	Marionette	INFO	Listening on port 63831
+1606248615507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606248660316	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606248690042	Marionette	INFO	Stopped listening on port 63831
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606248691954	geckodriver	INFO	Listening on 127.0.0.1:63887
+1606248695034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilenoOAiI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606248699677	Marionette	INFO	Listening on port 63896
+1606248699986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606248720276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606248827719	Marionette	INFO	Stopped listening on port 63896
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606248849229	geckodriver	INFO	Listening on 127.0.0.1:63964
+1606248852272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilelLh6XC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606248856875	Marionette	INFO	Listening on port 63972
+1606248857137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606248880131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606249104839	Marionette	INFO	Stopped listening on port 63972
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606249112870	geckodriver	INFO	Listening on 127.0.0.1:64151
+1606249115966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileIZlZL4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606249120444	Marionette	INFO	Listening on port 64159
+1606249120978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606249146709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606249529122	Marionette	INFO	Stopped listening on port 64159
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606249693760	geckodriver	INFO	Listening on 127.0.0.1:64455
+1606249696821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileHad93n"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606249702548	Marionette	INFO	Listening on port 64463
+1606249703018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606249728727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606249867215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-for
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] ErrJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606249873315	Marionette	INFO	Listening on port 58617
+1606249873449	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606249915960	Marionette	INFO	Stopped listening on port 58617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606253790265	geckodriver	INFO	Listening on 127.0.0.1:54449
+1606253793304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileciCgjE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606253798123	Marionette	INFO	Listening on port 54457
+1606253798544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606253836074	Marionette	INFO	Stopped listening on port 54457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606253877985	geckodriver	INFO	Listening on 127.0.0.1:54520
+1606253881048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilezIBML7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606253886403	Marionette	INFO	Listening on port 54528
+1606253886641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606254700323	Marionette	INFO	Stopped listening on port 54528
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606254701759	geckodriver	INFO	Listening on 127.0.0.1:54798
+1606254704845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile98CNuX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606254710220	Marionette	INFO	Listening on port 54806
+1606254710341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606254729761	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606255593204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileoXeCWC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606255599533	Marionette	INFO	Listening on port 55440
+1606255600004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606255618606	Marionette	INFO	Stopped listening on port 55440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606255620607	geckodriver	INFO	Listening on 127.0.0.1:55475
+1606255623671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileAJ1Ptc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606255628998	Marionette	INFO	Listening on port 55483
+1606255629432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606255659437	Marionette	INFO	Stopped listening on port 55481606255659479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilep2FJXF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606255664876	Marionette	INFO	Listening on port 55525
+1606255665220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606255687616	Marionette	INFO	Stopped listening on port 55525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileg13W2V"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606255693724	Marionette	INFO	Listening on port 55569
+1606255694301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606255737194	Marionette	INFO	Stopped listening on port 55569
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606255739233	geckodriver	INFO	Listening on 127.0.0.1:55615
+1606255742280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile7nVHsN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606255747873	Marionette	INFO	Listening on port 55623
+1606255748022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606255772664	Marionette	INFO	Stopped listening on port 55623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606255773978	geckodriver	INFO	Listening on 127.0.0.1:55665
+1606255777049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileJlbhyU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606255782852	Marionette	INFO	Listening on port 55673
+1606255783107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606255808223	Marionette	INFO	Stopped listening on port 55673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606255809952	geckodriver	INFO	Listening on 127.0.0.1:55715
+1606255813018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilevT8grr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606255818747	Marionette	INFO	Listening on port 55723
+1606255819091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606255841067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606256140391	Marionette	INFO	Stopped listening on port 55723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606256142731	geckodriver	INFO	Listening on 127.0.0.1:55799
+1606256145840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileamHPcu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606256150682	Marionette	INFO	Listening on port 55807
+1606256151458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606256173422	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606256765874	Marionette	INFO	Stopped listening on port 55807
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606256767498	geckodriver	INFO	Listening on 127.0.0.1:55945
+1606256770560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile2q3HWt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606256776216	Marionette	INFO	Listening on port 55953
+1606256776584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606256797861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606256838980	Marionette	INFO	Stopped listening on port 55953
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606256840458	geckodriver	INFO	Listening on 127.0.0.1:56014
+1606256843523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilegzbvR3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606256848315	Marionette	INFO	Listening on port 56022
+1606256848567	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1606256872284	Marionette	INFO	Stopped listening on port 56022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606256873900	geckodriver	INFO	Listening on 127.0.0.1:59935
+1606256876959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofiless81pC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606256882358	Marionette	INFO	Listening on port 59952
+1606256882508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606256905784	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606257288890	Marionette	INFO	Stopped listening on port 59952
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606257290513	geckodriver	INFO	Listening on 127.0.0.1:60120
+1606257293585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilejzHDt7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606257298726	Marionette	INFO	Listening on port 60128
+1606257298928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606257320095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606257532185	Marionette	INFO	Stopped listening on port 60128
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606257819382	geckodriver	INFO	Listening on 127.0.0.1:60252
+1606257822469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile5e7mZo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606257828095	Marionette	INFO	Listening on port 60260
+1606257828738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606257849251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606258124122	Marionette	INFO	Stopped listening on port 60260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606259014875	geckodriver	INFO	Listening on 127.0.0.1:60500
+1606259017973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileOHMhQ0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606259023124	Marionette	INFO	Listening on port 60509
+1606259023306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606259044029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606259273429	Marionette	INFO	Stopped listening on port 60509
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606259487744	geckodriver	INFO	Listening on 127.0.0.1:60646
+1606259490837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileloMmIW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606259495246	Marionette	INFO	Listening on port 60654
+1606259495706	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606259532735	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606259821105	Marionette	INFO	Stopped listening on port 60654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606259823619	geckodriver	INFO	Listening on 127.0.0.1:60763
+1606259826701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile5FFvAj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606259832404	Marionette	INFO	Listening on port 60771
+1606259832836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606259852567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606261181125	Marionette	INFO	Stopped listening on port 60771
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+filehzUDt3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606261186623	Marionette	INFO	Listening on port 61417
+1606261186815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606261263662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606262005161	Marionette	INFO	Stopped listening on port 61417
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606262006947	geckodriver	INFO	Listening on 127.0.0.1:61648
+1606262010023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileV0eDsx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606262015104	Marionette	INFO	Listening on port 61656
+1606262015384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606262038132	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606262339042	mozrunner::runner	INFO	Running command: "C:\\Pr1606262339262	Marionette	INFO	Stopped listening on port 61656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606262345045	Marionette	INFO	Listening on port 61771
+1606262345111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606262364490	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606263307906	Marionette	INFO	Stopped listening on port 61771
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606263309380	geckodriver	INFO	Listening on 127.0.0.1:61997
+1606263312465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileSB63St"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606263317651	Marionette	INFO	Listening on port 62006
+1606263317699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606263339598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606263584819	Marionette	INFO	Stopped listening on port 62006
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606263627858	geckodriver	INFO	Listening on 127.0.0.1:62116
+1606263630912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilehkPmak"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606263635951	Marionette	INFO	Listening on port 62124
+1606263636047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606263660624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606264405781	Marionette	INFO	Stopped listening on port 62124
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606264409401	geckodriver	INFO	Listening on 127.0.0.1:62407
+1606264412469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofiletSwo80"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606264418231	Marionette	INFO	Listening on port 62415
+1606264418529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606264439748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606264726285	Marionette	INFO	Stopped listening on port 62415
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606264728069	geckodriver	INFO	Listening on 127.0.0.1:62549
+1606264731128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile5cqzju"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606264737001	Marionette	INFO	Listening on port 62557
+1606264737514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606264759733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606265027900	Marionette	INFO	Stopped listening on port 62557
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606265030165	geckodriver	INFO	Listening on 127.0.0.1:62728
+1606265033235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofilezy1wqu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606265038148	Marionette	INFO	Listening on port 62736
+1606265038510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606265058757	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606265944957	Marionette	INFO	Stopped listening on port 62736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606309662611	geckodriver	INFO	Listening on 127.0.0.1:53081
+1606309665696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofile0Kr1X2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606309676984	Marionette	INFO	Listening on port 53095
+1606309677535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606309695070	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606310698339	Marionette	INFO	Stopped listening on port 53095
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606310700055	geckodriver	INFO	Listening on 127.0.0.1:53321
+1606310703121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileA26Kf1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606310708988	Marionette	INFO	Listening on port 53329
+1606310709360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606310726293	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line1606311020382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileCawD7c"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606311026259	Marionette	INFO	Listening on port 53484
+1606311026618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606311046831	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606311391466	Marionette	INFO	Stopped listening on port 53484
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606311393417	geckodriver	INFO	Listening on 127.0.0.1:53606
+1606311396507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileaoA1CZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606311402029	Marionette	INFO	Listening on port 53621
+1606311402417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606311781936	Marionette	INFO	Stopped listening on port 53621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606311783123	geckodriver	INFO	Listening on 127.0.0.1:53733
+1606311786188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileQoO4oB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606311790754	Marionette	INFO	Listening on port 53741
+1606311791407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606311811610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606312048989	Marionette	INFO	Stopped listening on port 53741
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606312078489	geckodriver	INFO	Listening on 127.0.0.1:53822
+1606312081569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileYZTAsg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606312086468	Marionette	INFO	Listening on port 53830
+1606312086627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606312104210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+[Child 19152, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 19152, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1606312516065	Marionette	INFO	Stopped listening on port 53830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606312900766	geckodriver	INFO	Listening on 127.0.0.1:54110
+1606312903834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileTa8glX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606312909760	Marionette	INFO	Listening on port 54119
+1606312910224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606312928221	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606313207014	Marionette	INFO	Stopped listening on port 54119
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606313210064	geckodriver	INFO	Listening on 127.0.0.1:54427
+1606313213144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DELLE5~1\\AppData\\Local\\Temp\\rust_mozprofileOK9PSj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606313218117	Marionette	INFO	Listening on port 54437
+1606313218492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://rjovica-trials6518.orangehrmlive.com/client/build/js/app-7bb4fc6f18.js, line 25: ReferenceError: OHRM is not defined
+1606313235623	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606313454234	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606313456299	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606313460500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606313463564	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606313464894	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1606313496611	Marionette	INFO	Stopped listening on port 54437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
